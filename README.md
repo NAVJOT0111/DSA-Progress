@@ -21,6 +21,7 @@ This repository reflects my learning journey, not just final answers.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -33,6 +34,7 @@ This repository reflects my learning journey, not just final answers.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -43,6 +45,7 @@ This repository reflects my learning journey, not just final answers.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
 ## Binary Search
