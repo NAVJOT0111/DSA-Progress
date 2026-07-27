@@ -20,6 +20,7 @@ This repository reflects my learning journey, not just final answers.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ This repository reflects my learning journey, not just final answers.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -52,4 +54,8 @@ This repository reflects my learning journey, not just final answers.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
