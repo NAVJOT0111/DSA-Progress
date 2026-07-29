@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
