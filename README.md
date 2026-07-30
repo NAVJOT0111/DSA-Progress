@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
