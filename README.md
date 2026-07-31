@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -39,6 +40,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,4 +108,12 @@
 | [0209-minimum-size-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
