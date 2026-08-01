@@ -17,6 +17,7 @@
 | [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0904-fruit-into-baskets) |
@@ -27,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +123,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
