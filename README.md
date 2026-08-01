@@ -20,6 +20,7 @@
 | [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
