@@ -1,4 +1,31 @@
 class Solution {
+
+public:
+
+    int subarraysWithKDistinct(vector<int>& nums, int k) {
+        int cnt = 0;
+
+        for(int i =0; i <nums.size(); i++){
+
+            map <int,int> mpp;
+
+            for(int j =i; j <nums.size(); j++){
+                mpp[nums[j]]++;
+
+                if(mpp.size() == k)
+                    cnt++;
+
+                else if(mpp.size() > k)
+                    break;
+            }
+
+        }
+        return cnt;
+    }
+};
+
+
+class Solution {
 public:
 
     int subarraysWithKDistinct(vector<int>& nums, int k) {
