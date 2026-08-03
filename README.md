@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -90,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0992-subarrays-with-k-different-integers) |
@@ -122,6 +125,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0724-find-pivot-index) |
