@@ -33,6 +33,7 @@
 | [1406-stone-game-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
