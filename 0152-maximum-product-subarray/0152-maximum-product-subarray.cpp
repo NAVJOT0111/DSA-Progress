@@ -1,3 +1,7 @@
+// brute force = O(n3)
+// better : O(n2)
+
+
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
