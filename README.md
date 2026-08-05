@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3310-remove-methods-from-project) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
