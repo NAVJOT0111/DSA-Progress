@@ -35,6 +35,7 @@
 | [1314-matrix-block-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3731-find-missing-elements) |
 ## Math
@@ -93,6 +94,7 @@
 | [0877-stone-game](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1406-stone-game-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
