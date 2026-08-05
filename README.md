@@ -168,4 +168,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
