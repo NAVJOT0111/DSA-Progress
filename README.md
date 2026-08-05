@@ -71,6 +71,7 @@
 | [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
