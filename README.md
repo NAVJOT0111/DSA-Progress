@@ -48,6 +48,7 @@
 | [0877-stone-game](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1021-remove-outermost-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
