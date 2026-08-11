@@ -1,3 +1,42 @@
+// O(maxPile*N)
+
+class Solution {
+
+public:
+
+int minEatingSpeed(vector<int>& piles, int h) {
+
+int maxPile = INT_MIN;
+
+for(int i = 0; i < piles.size(); i++){
+
+maxPile = max(piles[i], maxPile);
+
+}
+
+for(int k = 1; k <= maxPile; k++){
+
+int hours = 0;
+
+for(int pile : piles){
+
+hours += (pile +  k -1 )/k;
+
+}
+
+if(hours <= h)
+
+return k;
+
+}
+
+return maxPile;
+
+}
+
+};
+
+
 class Solution {
 public:
 
