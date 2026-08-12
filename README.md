@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0239-sliding-window-maximum) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +82,7 @@
 | [0042-trapping-rain-water](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0344-reverse-string) |
 ## Binary Search
