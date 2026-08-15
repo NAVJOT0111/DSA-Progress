@@ -47,6 +47,7 @@
 | [1406-stone-game-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVJOT0111/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/NAVJOT0111/DSA-Progress/tree/master/3731-find-missing-elements) |
 ## Math
@@ -105,6 +106,7 @@
 | [0875-koko-eating-bananas](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/NAVJOT0111/DSA-Progress/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Greedy
 |  |
 | ------- |
