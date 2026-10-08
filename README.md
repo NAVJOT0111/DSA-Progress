@@ -233,4 +233,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NAVJOT0111/DSA-Progress/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
