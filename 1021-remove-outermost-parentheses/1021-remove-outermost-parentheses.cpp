@@ -1,49 +1,43 @@
-// with extra space 
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        string res = "";
-        stack <char> bracket;
+        string ans;
+        int depth = 0;
 
-        for(int i =0; i < s.length(); i++){
-            if(s[i] == '('){
-                if(!bracket.empty()){
-                    res += s[i];
+        for(char c : s){
+            if(c == '('){
+                if(depth > 0){
+                    ans += c;
                 }
-                bracket.push(s[i]);
+                depth++;
             }
             else{
-                bracket.pop();
-                if(!bracket.empty()){
-                    res += s[i];
+                depth--;
+                if(depth > 0){
+                    ans += c;
                 }
             }
         }
-        return res;
+        return ans;
     }
 };
 
 
-class Solution {
-public:
-    string removeOuterParentheses(string s) {
-        string res = "";
-        stack <char> bracket;
+    // string res = "";
+    //     stack <char> bracket;
 
-        for(int i =0; i < s.length(); i++){
-            if(s[i] == '('){
-                if(!bracket.empty()){
-                    res += s[i];
-                }
-                bracket.push(s[i]);
-            }
-            else{
-                bracket.pop();
-                if(!bracket.empty()){
-                    res += s[i];
-                }
-            }
-        }
-        return res;
-    }
-};
+    //     for(int i =0; i < s.length(); i++){
+    //         if(s[i] == '('){
+    //             if(!bracket.empty()){
+    //                 res += s[i];
+    //             }
+    //             bracket.push(s[i]);
+    //         }
+    //         else{
+    //             bracket.pop();
+    //             if(!bracket.empty()){
+    //                 res += s[i];
+    //             }
+    //         }
+    //     }
+    //     return res;
